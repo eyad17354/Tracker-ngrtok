@@ -1,0 +1,16 @@
+[Fri Jun 14 16:17:32 2024] PHP 8.2.18 Development Server (http://localhost:2525) started
+[Fri Jun 14 16:21:03 2024] [::1]:44344 Accepted
+[Fri Jun 14 16:21:03 2024] [::1]:44344 [302]: GET /
+[Fri Jun 14 16:21:03 2024] [::1]:44344 Closing
+[Fri Jun 14 16:21:03 2024] [::1]:44346 Accepted
+[Fri Jun 14 16:21:03 2024] [::1]:44346 [200]: GET /login.php
+[Fri Jun 14 16:21:03 2024] [::1]:44346 Closing
+[Fri Jun 14 16:21:03 2024] [::1]:44354 Accepted
+[Fri Jun 14 16:21:03 2024] [::1]:44368 Accepted
+[Fri Jun 14 16:21:03 2024] [::1]:44354 [200]: GET /assets/css/style.css
+[Fri Jun 14 16:21:03 2024] [::1]:44368 [200]: GET /assets/css/bootstrap.min.css
+[Fri Jun 14 16:21:03 2024] [::1]:44354 Closing
+[Fri Jun 14 16:21:03 2024] [::1]:44368 Closing
+[Fri Jun 14 16:21:04 2024] [::1]:44372 Accepted
+[Fri Jun 14 16:21:04 2024] [::1]:44372 [404]: GET /favicon.ico - No such file or directory
+[Fri Jun 14 16:21:04 2024] [::1]:44372 Closing

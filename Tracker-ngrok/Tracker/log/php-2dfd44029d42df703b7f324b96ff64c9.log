@@ -1,0 +1,124 @@
+[Wed Jul 31 14:41:23 2024] PHP 8.2.12 Development Server (http://localhost:2525) started
+[Wed Jul 31 14:41:34 2024] [::1]:56844 Accepted
+[Wed Jul 31 14:41:34 2024] [::1]:56844 [302]: GET /
+[Wed Jul 31 14:41:34 2024] [::1]:56844 Closing
+[Wed Jul 31 14:41:34 2024] [::1]:56846 Accepted
+[Wed Jul 31 14:41:34 2024] [::1]:56846 [200]: GET /login.php
+[Wed Jul 31 14:41:34 2024] [::1]:56846 Closing
+[Wed Jul 31 14:41:34 2024] [::1]:56860 Accepted
+[Wed Jul 31 14:41:34 2024] [::1]:56858 Accepted
+[Wed Jul 31 14:41:34 2024] [::1]:56860 [200]: GET /assets/css/style.css
+[Wed Jul 31 14:41:34 2024] [::1]:56860 Closing
+[Wed Jul 31 14:41:34 2024] [::1]:56858 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jul 31 14:41:34 2024] [::1]:56858 Closing
+[Wed Jul 31 14:41:35 2024] [::1]:56866 Accepted
+[Wed Jul 31 14:41:35 2024] [::1]:56866 [404]: GET /favicon.ico - No such file or directory
+[Wed Jul 31 14:41:35 2024] [::1]:56866 Closing
+[Wed Jul 31 14:41:42 2024] [::1]:49442 Accepted
+[Wed Jul 31 14:41:42 2024] [::1]:49442 [200]: POST /login.php
+[Wed Jul 31 14:41:42 2024] [::1]:49442 Closing
+[Wed Jul 31 14:41:42 2024] [::1]:49458 Accepted
+[Wed Jul 31 14:41:42 2024] [::1]:49458 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jul 31 14:41:42 2024] [::1]:49458 Closing
+[Wed Jul 31 14:41:42 2024] [::1]:49472 Accepted
+[Wed Jul 31 14:41:42 2024] [::1]:49472 [200]: GET /assets/css/style.css
+[Wed Jul 31 14:41:42 2024] [::1]:49472 Closing
+[Wed Jul 31 14:41:43 2024] [::1]:49474 Accepted
+[Wed Jul 31 14:41:43 2024] [::1]:49474 [200]: GET /panel.php
+[Wed Jul 31 14:41:43 2024] [::1]:49474 Closing
+[Wed Jul 31 14:41:44 2024] [::1]:49478 Accepted
+[Wed Jul 31 14:41:44 2024] [::1]:49480 Accepted
+[Wed Jul 31 14:41:44 2024] [::1]:49478 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jul 31 14:41:44 2024] [::1]:49480 [200]: GET /assets/css/light-theme.min.css
+[Wed Jul 31 14:41:44 2024] [::1]:49478 Closing
+[Wed Jul 31 14:41:44 2024] [::1]:49480 Closing
+[Wed Jul 31 14:41:44 2024] [::1]:49484 Accepted
+[Wed Jul 31 14:41:44 2024] [::1]:49484 [200]: GET /assets/js/jquery.min.js
+[Wed Jul 31 14:41:44 2024] [::1]:49484 Closing
+[Wed Jul 31 14:41:44 2024] [::1]:49498 Accepted
+[Wed Jul 31 14:41:44 2024] [::1]:49498 [200]: GET /assets/js/script.js
+[Wed Jul 31 14:41:44 2024] [::1]:49498 Closing
+[Wed Jul 31 14:41:44 2024] [::1]:49500 Accepted
+[Wed Jul 31 14:41:44 2024] [::1]:49512 Accepted
+[Wed Jul 31 14:41:44 2024] [::1]:49500 [200]: GET /assets/js/sweetalert2.min.js
+[Wed Jul 31 14:41:44 2024] [::1]:49500 Closing
+[Wed Jul 31 14:41:44 2024] [::1]:49512 [200]: GET /assets/js/growl-notification.min.js
+[Wed Jul 31 14:41:44 2024] [::1]:49512 Closing
+[Wed Jul 31 14:41:46 2024] [::1]:56134 Accepted
+[Wed Jul 31 14:41:46 2024] [::1]:56144 Accepted
+[Wed Jul 31 14:41:46 2024] [::1]:56134 [200]: GET /Settings.json
+[Wed Jul 31 14:41:46 2024] [::1]:56144 [200]: POST /list_templates.php
+[Wed Jul 31 14:41:46 2024] [::1]:56144 Closing
+[Wed Jul 31 14:41:46 2024] [::1]:56134 Closing
+[Wed Jul 31 14:41:49 2024] [::1]:56150 Accepted
+[Wed Jul 31 14:41:49 2024] [::1]:56150 [200]: POST /receiver.php
+[Wed Jul 31 14:41:49 2024] [::1]:56150 Closing
+[Wed Jul 31 14:41:51 2024] [::1]:56158 Accepted
+[Wed Jul 31 14:41:51 2024] [::1]:56158 [200]: POST /receiver.php
+[Wed Jul 31 14:41:51 2024] [::1]:56158 Closing
+[Wed Jul 31 14:41:53 2024] [::1]:56164 Accepted
+[Wed Jul 31 14:41:53 2024] [::1]:56164 [200]: POST /receiver.php
+[Wed Jul 31 14:41:53 2024] [::1]:56164 Closing
+[Wed Jul 31 14:42:25 2024] [::1]:38980 Accepted
+[Wed Jul 31 14:42:25 2024] [::1]:38980 [302]: GET /
+[Wed Jul 31 14:42:25 2024] [::1]:38980 Closing
+[Wed Jul 31 14:42:25 2024] [::1]:38994 Accepted
+[Wed Jul 31 14:42:25 2024] [::1]:38994 [200]: GET /panel.php
+[Wed Jul 31 14:42:25 2024] [::1]:38994 Closing
+[Wed Jul 31 14:42:25 2024] [::1]:38996 Accepted
+[Wed Jul 31 14:42:25 2024] [::1]:38996 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jul 31 14:42:25 2024] [::1]:38996 Closing
+[Wed Jul 31 14:42:25 2024] [::1]:39004 Accepted
+[Wed Jul 31 14:42:25 2024] [::1]:39006 Accepted
+[Wed Jul 31 14:42:25 2024] [::1]:39004 [200]: GET /assets/js/jquery.min.js
+[Wed Jul 31 14:42:25 2024] [::1]:39006 [200]: GET /assets/css/light-theme.min.css
+[Wed Jul 31 14:42:25 2024] [::1]:39004 Closing
+[Wed Jul 31 14:42:25 2024] [::1]:39006 Closing
+[Wed Jul 31 14:42:26 2024] [::1]:39022 Accepted
+[Wed Jul 31 14:42:26 2024] [::1]:39026 Accepted
+[Wed Jul 31 14:42:26 2024] [::1]:39022 [200]: GET /assets/js/script.js
+[Wed Jul 31 14:42:26 2024] [::1]:39032 Accepted
+[Wed Jul 31 14:42:26 2024] [::1]:39026 [200]: GET /assets/js/sweetalert2.min.js
+[Wed Jul 31 14:42:26 2024] [::1]:39032 [200]: GET /assets/js/growl-notification.min.js
+[Wed Jul 31 14:42:26 2024] [::1]:39022 Closing
+[Wed Jul 31 14:42:26 2024] [::1]:39026 Closing
+[Wed Jul 31 14:42:26 2024] [::1]:39032 Closing
+[Wed Jul 31 14:42:28 2024] [::1]:39058 Accepted
+[Wed Jul 31 14:42:28 2024] [::1]:39062 Accepted
+[Wed Jul 31 14:42:28 2024] [::1]:39058 [200]: POST /list_templates.php
+[Wed Jul 31 14:42:28 2024] [::1]:39058 Closing
+[Wed Jul 31 14:42:28 2024] [::1]:39062 [200]: GET /Settings.json
+[Wed Jul 31 14:42:28 2024] [::1]:39062 Closing
+[Wed Jul 31 14:42:31 2024] [::1]:39068 Accepted
+[Wed Jul 31 14:42:31 2024] [::1]:39068 [200]: POST /receiver.php
+[Wed Jul 31 14:42:31 2024] [::1]:39068 Closing
+[Wed Jul 31 14:42:33 2024] [::1]:39072 Accepted
+[Wed Jul 31 14:42:33 2024] [::1]:39072 [200]: POST /receiver.php
+[Wed Jul 31 14:42:33 2024] [::1]:39072 Closing
+[Wed Jul 31 14:42:35 2024] [::1]:39076 Accepted
+[Wed Jul 31 14:42:35 2024] [::1]:39076 [200]: POST /receiver.php
+[Wed Jul 31 14:42:35 2024] [::1]:39076 Closing
+[Wed Jul 31 14:42:37 2024] [::1]:52148 Accepted
+[Wed Jul 31 14:42:37 2024] [::1]:52148 [200]: POST /receiver.php
+[Wed Jul 31 14:42:37 2024] [::1]:52148 Closing
+[Wed Jul 31 14:42:39 2024] [::1]:52162 Accepted
+[Wed Jul 31 14:42:39 2024] [::1]:52162 [200]: POST /receiver.php
+[Wed Jul 31 14:42:39 2024] [::1]:52162 Closing
+[Wed Jul 31 14:42:41 2024] [::1]:52172 Accepted
+[Wed Jul 31 14:42:41 2024] [::1]:52172 [200]: POST /receiver.php
+[Wed Jul 31 14:42:41 2024] [::1]:52172 Closing
+[Wed Jul 31 14:42:43 2024] [::1]:52174 Accepted
+[Wed Jul 31 14:42:43 2024] [::1]:52174 [200]: POST /receiver.php
+[Wed Jul 31 14:42:43 2024] [::1]:52174 Closing
+[Wed Jul 31 14:42:45 2024] [::1]:52182 Accepted
+[Wed Jul 31 14:42:45 2024] [::1]:52182 [200]: POST /receiver.php
+[Wed Jul 31 14:42:45 2024] [::1]:52182 Closing
+[Wed Jul 31 14:42:47 2024] [::1]:50982 Accepted
+[Wed Jul 31 14:42:47 2024] [::1]:50982 [200]: POST /receiver.php
+[Wed Jul 31 14:42:47 2024] [::1]:50982 Closing
+[Wed Jul 31 14:42:49 2024] [::1]:50992 Accepted
+[Wed Jul 31 14:42:49 2024] [::1]:50992 [200]: POST /receiver.php
+[Wed Jul 31 14:42:49 2024] [::1]:50992 Closing
+[Wed Jul 31 14:42:51 2024] [::1]:50996 Accepted
+[Wed Jul 31 14:42:51 2024] [::1]:50996 [200]: POST /receiver.php
+[Wed Jul 31 14:42:51 2024] [::1]:50996 Closing
